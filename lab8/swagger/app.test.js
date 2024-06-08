@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('./lab6/app');
+const app = require('./app');
 
 
 describe('Calculator Routes', () => {
